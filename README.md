@@ -31,5 +31,11 @@ Supports both admin and non-admin installs (ProgramData and LocalAppData).
 2. Run `jellyfin_backup_manager.ps1` in PowerShell (as admin recommended)
 3. Follow the on-screen menu prompts:
 
+---
+
+# 💬 Contact
+
+For any questions or issues, feel free to contact me through my [GitHub profile](https://github.com/josh2kk/).
+
 
 Made with 💙 by Josh2kk
